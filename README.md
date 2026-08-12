@@ -28,9 +28,7 @@ required notification operation.
 
 ## System Architecture
 
-<p align="center">
-  <img src="architecture.png" alt="System Architecture Diagram" width="500"/>
-</p>
+![System Architecture](architecture.png)
 
 ## Project Structure
 
