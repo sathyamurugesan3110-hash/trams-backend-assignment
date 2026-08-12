@@ -29,7 +29,7 @@ required notification operation.
 ## System Architecture
 
 <p align="center">
-  <img src="./architecture.png" alt="System Architecture Diagram" width="500"/>
+  <img src="architecture.png" alt="System Architecture Diagram" width="500"/>
 </p>
 
 ## Project Structure
