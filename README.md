@@ -28,7 +28,8 @@ required notification operation.
 
 ## System Architecture
 
-![System Architecture](architecture.png)
+The architecture diagram for this application can be viewed directly here:
+- 🔗 **[View Architecture Diagram](./architecture.png)**
 
 
 ## Project Structure
