@@ -28,9 +28,7 @@ required notification operation.
 
 ## System Architecture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sathyamurugesan3110-hash/trams-backend-assignment/main/architecture.png" alt="System Architecture Diagram" width="700"/>
-</p>
+![System Architecture](architecture.png)
 
 
 ## Project Structure
