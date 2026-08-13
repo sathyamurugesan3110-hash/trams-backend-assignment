@@ -26,12 +26,6 @@ required notification operation.
 - Docker
 - Docker Compose
 
-## Project Architecture
-
-<p align="center">
-  <img src="./architecture.png" alt="System Architecture Diagram" width="700"/>
-</p>
-
 ## Project Structure
 
 The project contains the following services:
